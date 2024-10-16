@@ -1,0 +1,63 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(248, 137, 68);
+}
+
+header {
+    background-color: rgb(146, 35, 35);
+    min-height: 200px;
+}
+
+.my-text-size {
+    font-size: 1rem;
+}
+
+.mision {
+    text-align: justify;
+}
+
+.main-container {
+    background-color: #ffffff;
+    background-image: linear-gradient(135deg, #ffffff 43%, #ffe1c9 100%);    
+    min-height: 800px;
+}
+
+.home-article {
+    min-height: 300px;
+}
+
+.menu {
+    justify-content: space-evenly;
+}
+
+.right-article {
+    min-height: 300px;
+}
+
+.left-article {
+    min-height: 300px;
+}
+
+footer {
+    background-color: #ffe1c9;
+    min-height: 100px;
+    font-size: 1rem;
+}
+
+.my-button {
+    color: white;
+    font-weight: 600;
+    --bs-btn-bg: rgb(248, 137, 68);
+}
+
+.card-detail {
+    display: flex;
+    justify-content: center;
+}
+
+.my-icons {
+    transform: scale(0.75);
+}

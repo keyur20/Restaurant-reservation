@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4603a71d.css",
+    "main.js": "/static/js/main.11dc842f.js",
+    "static/media/reservacion.svg": "/static/media/reservacion.f87e0d393c10890f57d848874ebd62cc.svg",
+    "static/media/notfounded.png": "/static/media/notfounded.91983df5810796b89e85.png",
+    "static/media/metrocentro.JPG": "/static/media/metrocentro.b772e85d4c46a74efd30.JPG",
+    "static/media/location.svg": "/static/media/location.f4f88cdf2c699ec19754f7866715e31b.svg",
+    "static/media/home-article.png": "/static/media/home-article.0d48101592ed71e8f29f.png",
+    "static/media/logo.svg": "/static/media/logo.25409a17a7356286bb971c5158a2b9b2.svg",
+    "static/media/twitter.svg": "/static/media/twitter.bd4749a263bcfc2080d5dfde51950bc5.svg",
+    "static/media/insta.svg": "/static/media/insta.45f8f1f28ea693b892421eb45005baf5.svg",
+    "static/media/youtube.svg": "/static/media/youtube.08adb4a8b64f3e0a63738adf8d15f4e6.svg",
+    "index.html": "/index.html",
+    "static/media/fb.svg": "/static/media/fb.0bc24d918e545ebccf3c412ed28fbd4e.svg",
+    "main.4603a71d.css.map": "/static/css/main.4603a71d.css.map",
+    "main.11dc842f.js.map": "/static/js/main.11dc842f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4603a71d.css",
+    "static/js/main.11dc842f.js"
+  ]
+}
